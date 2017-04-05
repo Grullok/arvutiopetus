@@ -33,7 +33,7 @@ pre {
   border-left: 2px solid #69c;
 }
 
-h1 {
+#tiitel {
     background-color: aqua;
     border-radius: 10px;
     width: 195px;
@@ -41,4 +41,8 @@ h1 {
 
 p {
     max-width: 1000px;
+}
+
+#lopp {
+    max-width: 1500px;
 }
